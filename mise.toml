@@ -1,0 +1,5 @@
+# mise configuration for GitMark
+# https://mise.jdx.dev/configuration.html
+
+[env]
+_.file = ".env"
